@@ -1,0 +1,12 @@
+bts.txt
+double.txt
+extr.txt
+high.txt
+liste_fichiers.txt
+low.txt
+slogan4.txt
+slogan.txt
+touch
+tri.txt
+user.txt
+mer. 11 sept. 2024 10:33:13 CEST
